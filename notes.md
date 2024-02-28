@@ -2769,7 +2769,6 @@ Construir campos de data com o datepicker do Angular Material.
 
 @@01
 Projeto da aula anterior
-PRÓXIMA ATIVIDADE
 
 Caso queira revisar o código até aqui ou começar a partir desse ponto, disponibilizamos os códigos realizados na aula anterior, para baixá-lo clique neste link ou veja nosso repositório do Github.
 
@@ -2779,7 +2778,6 @@ https://github.com/alura-cursos/3150-jornada-milhas/tree/aula-3
 
 @@02
 Preparando o ambiente
-PRÓXIMA ATIVIDADE
 
 Na próxima aula, vamos construir o novo componente modal e utilizaremos o código à seguir para sua estilização:
 .modal {
@@ -3054,7 +3052,6 @@ Estou contando com vocês para essa modal ficar incrível!
 
 @@05
 Para saber mais: personalizando modal com MatDialog
-PRÓXIMA ATIVIDADE
 
 O componente Dialog do Angular Material
 O componente Dialog do Angular Material é um recurso poderoso que permite a criação e abertura de modais na aplicação. O modal é uma janela flutuante que requer a atenção do usuário antes de continuar interagindo com o restante da aplicação.
@@ -3078,7 +3075,6 @@ Em resumo, o componente Dialog do Angular Material permite a criação de modais
 
 @@06
 Desafio: componentizando os botões de incremento e decremento
-PRÓXIMA ATIVIDADE
 
 No código criado no arquivo modal.component.html, observamos que os botões estão sendo repetidos para cada seção (adultos, crianças e bebês), assim como a imagem e as propriedades src e alt dos botões.
 Trecho de código do modal repetido nas seções Adultos, crianças e bebês:
@@ -3200,7 +3196,6 @@ https://github.com/alura-cursos/3150-jornada-milhas/commit/7572a8615df6b75953c21
 
 @@07
 Projeto final
-PRÓXIMA ATIVIDADE
 
 Caso queira revisar o código do projeto final do curso, você pode baixá-lo neste link ou acessar nosso repositório do Github.
 
@@ -3210,7 +3205,6 @@ https://github.com/alura-cursos/3150-jornada-milhas/tree/aula-4
 
 @@08
 O que aprendemos?
-PRÓXIMA ATIVIDADE
 
 Nessa aula, você aprendeu como:
 Criar o componente modal com o MatDialog do Angular Material;
